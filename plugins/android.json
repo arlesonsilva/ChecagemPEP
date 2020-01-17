@@ -1,0 +1,78 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "cordova-plugin-cleartext": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "br.com.hapvida.checagempep"
+    }
+  }
+}
